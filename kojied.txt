@@ -1,0 +1,16 @@
+
+🧑 User Persona (Simulated Output)
+
+- **Personality Traits:** Curious, humorous, and highly engaged in niche communities.
+  - 🧩 Cited from Comment: "Comment: Sorry to hear that man, in the future you may want to have multiple gra..."
+
+- **Values & Beliefs:** Values privacy, anonymity, and freedom of expression.
+  - 📌 Cited from Post: "Title: I feel violated by intern season
+Body: There's this bar that I frequent a..."
+
+- **Interests & Hobbies:** Enjoys gaming, memes, technology debates, and life advice threads.
+  - 🎮 Cited from Post: "Title: H1B holders, what are your thoughts on the narrative that you are being e..."
+
+- **Writing Style:** Informal, sarcastic, and often uses memes or emojis.
+  - ✍️ Cited from Comment: "Comment: Yeah but it doesn’t seem to affect much though
+..."
